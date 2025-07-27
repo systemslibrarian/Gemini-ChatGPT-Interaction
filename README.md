@@ -14,7 +14,7 @@ This repository provides a Colab-ready notebook to simulate **Gemini prompting C
 
 ## 📦 Files
 
-- `notebook/Gemini_ChatGPT_Interaction.ipynb`: Main Colab notebook
+- `Gemini_ChatGPT_Interaction.ipynb`: Main Colab notebook
 
 ---
 
